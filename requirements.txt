@@ -1,0 +1,9 @@
+docx2txt==0.8
+Flask==2.0.2
+matplotlib==3.4.3
+mtcnn==0.1.1
+opencv-python-headless==4.5.4.58
+PyMuPDF==1.19.1
+requests==2.26.0
+tensorflow==2.7.0
+Werkzeug==2.0.2
