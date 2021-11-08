@@ -1,6 +1,6 @@
 # Get faces coordinates from CV
 
-This project was created for faces detection on photos from resumes. On localhost:5000 you could choose file (pdf or docx) and it would be saved into `input_files/` folder.
+This project was created for faces detection on photos from resumes. On localhost:5000 you could choose file (pdf or docx) and get result in json format. File would be saved into `input_files/` folder.
 All photos would be extracted and saved into proper directory `photos/<INPUT_FILE_NAME>`. 
 
 ### To run project you have to clone it first of all:
