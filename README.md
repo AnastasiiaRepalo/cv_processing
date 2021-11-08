@@ -17,9 +17,6 @@ docker run -dp 5000:5000 cv-face-detector
 ```
 
 
-### Output
-
-As output you will get json with coordinates and confidence for each face 
 
 
 
